@@ -1,9 +1,9 @@
 # MiniMax
 
-What -- Implementation of an unbeatable Tic Tac Toe player using Game Theory Minimax Algorithm.
+What -- An unbeatable Tic Tac Toe player using Game Theory Minimax Algorithm.
 
-Why  -- A small project to practice various programming languages.
+Why  -- Project-based practice for programming languages.
 
-How  -- I recommend learning the idea of the algorithm via geeksforgeeks.org
+How  -- I recommend learning the idea of the algorithm via [geeksforgeeks.org](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
 
-© Jun Wang 2022
+&copy; Jun Wang 2022
