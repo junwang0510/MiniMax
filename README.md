@@ -6,4 +6,4 @@
 
 - How: I recommend learning the idea of the algorithm via [geeksforgeeks.org](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
 
-`&copy; Jun Wang 2022`
+&copy; 2022 Jun Wang
